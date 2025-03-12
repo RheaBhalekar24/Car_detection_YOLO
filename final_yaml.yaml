@@ -1,0 +1,4 @@
+names: ["car"]
+nc: 1
+train: /home/rbhalekar/finally_merged_dataset1/train/images
+val: /home/rbhalekar/finally_merged_dataset1/val/images
